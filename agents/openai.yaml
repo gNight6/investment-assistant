@@ -1,0 +1,4 @@
+interface:
+  display_name: "投资助手"
+  short_description: "结合当前数据与风险约束分析投资标的，提出投资建议、仓位及退出条件"
+  default_prompt: "使用 $investment-assistant 分析指定标的并提出投资建议，核查当前数据，说明期限、仓位依据与失效条件。"
